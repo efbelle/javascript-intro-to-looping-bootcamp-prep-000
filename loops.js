@@ -23,6 +23,7 @@ return "done"
   var i = 0;
 function doWhileLoop(num) {
   function incrementVariable() {
+    i=i+1;
     return i
    }
 
